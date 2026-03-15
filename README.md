@@ -1,4 +1,4 @@
-ye template sahi ha 
+
 <div align="center">
   
 # 👋 Hey! I'm AYUSHI JHA
