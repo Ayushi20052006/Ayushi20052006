@@ -80,7 +80,7 @@
 | Platform | Link |
 |----------|------|
 | **Email** | [ayushi.jha20052006@gmail.com](mailto:ayushi.jha20052006@gmail.com) |
-| **Portfolio** | [YOUR_PORTFOLIO_LINK](https://yourportfolio.com) |
+| **Portfolio** | [Portfolio](https://yourportfolio.com) |
 
 ---
 
