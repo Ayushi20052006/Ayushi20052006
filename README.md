@@ -130,13 +130,3 @@
 <div align="center">
   
 ### 📈 Always learning, always growing! 🚀
-
-⭐ **If you like my projects, give them a star!** ⭐
-
-![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-Today-brightgreen?style=flat-square)
-
-</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushi20052006&theme=react-dark" alt="activity graph" />
-</p>
