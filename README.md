@@ -37,32 +37,6 @@ React • TypeScript • DSA
 
 ---
 
-### 📫 Get In Touch
-| Platform | Link |
-|----------|------|
-| **Email** | [ayushi.jha20052006@gmail.com](mailto:ayushi.jha20052006@gmail.com) |
-| **Portfolio** | [Portfolio](https://yourportfolio.com) |
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayushi-jha-482801310/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
-  </a>
-  <!-- <a href="https://x.com/[YOUR_TWITTER_HANDLE]" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a> -->
-  <a href="https://instagram.com/_.gunjan567" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
-  </a>
-  <a href="https://github.com/Ayushi20052006" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
-  </a>
-</p>
-
----
-
 ### 🧑‍💻 Experience
 - **Frontend Developer — NoirSane**  
   - Developed responsive web pages using **HTML, CSS, JavaScript, and React**  
@@ -78,6 +52,15 @@ React • TypeScript • DSA
   - Collaborated with the development team to ensure smooth execution  
   - Helped foster a strong tech community within the college  
   - Assisted participants in learning and building real-world projects  
+
+---
+### 📫 Get In Touch
+
+- 📧 Email: ayushi.jha20052006@gmail.com  
+- 🌐 Portfolio: https://yourportfolio.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayushi-jha-482801310/  
+- 📸 Instagram: https://instagram.com/_.gunjan567  
+- 💻 GitHub: https://github.com/Ayushi20052006  
 
 ---
 
