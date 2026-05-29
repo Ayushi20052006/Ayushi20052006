@@ -22,16 +22,16 @@
 ---
 
 ### 🌱 Currently Learning
-React • TypeScript • DSA
+React • Pandas • DSA
 ---
 
 ### 💻 Tech Skills
 
-**Languages:** Python • C++ • C • JavaScript • Java  
+**Languages:** Python • C++ • JavaScript • Java  
 
 **Data Analytics:** Excel • Power BI • SQL  
 
-**Frontend:** React • HTML • CSS • Tailwind CSS • Next.js   
+**Frontend:** React • HTML • CSS • Tailwind CSS   
 
 **Design & Tools:** Figma • Git • GitHub • VS Code  
 
